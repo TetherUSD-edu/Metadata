@@ -1,6 +1,6 @@
 {
     "symbol": "USDT",
-    "address": "",
+    "address": "0x90dC93Ae037334a8BAef22bFeC0b6102e08f1371",
     "decimals": 6,
     "name": "TetherUSD",
     "type": "ERC20",
